@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es2016",                              
+    "module": "commonjs",   
+    "noEmit": true,                         
+    "rootDir": ".",                              
+    "resolveJsonModule": true,                       
+    "forceConsistentCasingInFileNames": true,        
+    "esModuleInterop": true,                         
+    "strict": true,             
+    "skipLibCheck": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,                    
+  }
+}
