@@ -7,6 +7,13 @@
     "status": "CREATED"
   },
   {
+    "id": "ca5ff439-5dee-4957-90f1-3f9dfe5763ae",
+    "lockerId": null,
+    "weight": 1,
+    "size": "S",
+    "status": "CREATED"
+  },
+  {
     "id": "40efc6fd-f10c-4561-88bf-be916613377c",
     "lockerId": "1b8d1e89-2514-4d91-b813-044bf0ce8d20",
     "weight": 7,
@@ -14,9 +21,23 @@
     "status": "WAITING_PICKUP"
   },
   {
+    "id": "392b9445-ef69-47b1-9ade-e8794dced5f2",
+    "lockerId": null,
+    "weight": 8,
+    "size": "L",
+    "status": "WAITING_PICKUP"
+  },
+  {
     "id": "84ba232e-ce23-4d8f-ae26-68616600df48",
     "lockerId": "6b33b2d1-af38-4b60-a3c5-53a69f70a351",
     "weight": 10,
+    "size": "XL",
+    "status": "WAITING_DROPOFF"
+  },
+  {
+    "id": "95341dbe-b9f6-48ba-a81e-fffad4df3ec9",
+    "lockerId": null,
+    "weight": 12,
     "size": "XL",
     "status": "WAITING_DROPOFF"
   },

@@ -1,0 +1,9 @@
+# Package directories
+node_modules
+
+# Build or temporary outputs
+out/
+*.ignore.*
+
+# Jest
+coverage
