@@ -118,10 +118,11 @@ curl --request GET 'http://localhost:3000/rents/:id/pickup'
 
 ## Improvements <a name="improvements"></a>
 
-- Improve security by adding authorization to the API (i.e api_key or custom authorizer).
-- Implement pagination capabilities (Database would be required)
-- The project does not contain unit tests. They should exist to improve coverage granularity.
-- Build more integration/e2e tests for a more robust application.
+- Improve security by adding an authorization layer to the API (i.e api_key or custom authorizer).
+- Add a logger to improve readability when debugging.
+- Implement pagination capabilities (Database would be required).
+- The project does not contain unit tests. They should exist to improve code coverage.
+- Build integration and more e2e tests for a more robust application.
 
 ---
 
